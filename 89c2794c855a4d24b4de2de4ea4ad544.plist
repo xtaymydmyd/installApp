@@ -1,1 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>	<key>items</key>	<array>		<dict>			<key>assets</key>			<array>			<dict>			       <key>kind</key>			       <string>display-image</string>			       <key>needs-shine</key>			       <true/>			       <key>url</key>			        <!--应用图标-->			       <string>http://fdfs.lechat.io:63808/group1/M00/00/1E/wKhkP1w9jraANnumAAAAC3-ONFU19..png</string>			  </dict>				<dict>					<key>kind</key>					<string>software-package</string>					<key>url</key>					<!--ipa下载地址-->					<string>http://fdfs.lechat.io:63808/group1/M00/00/1E/wKhkP1w9jraAQuxMAVwd_ve67pw967.ipa</string>				</dict>			</array>			<key>metadata</key>			<dict>				<key>bundle-identifier</key>				<!--应用包名-->				<string>com.jieyun.app</string>				<key>bundle-version</key>				<!--应用版本-->				<string>1.0.2</string>				<key>kind</key>				<string>software</string>				<key>subtitle</key>				<string>Apple</string>				<key>title</key>				<!--应用名称-->				<string>杰作</string>			</dict>		</dict>	</array></dict></plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>	
+    <key>items</key>	
+    <array>		
+      <dict>			
+        <key>assets</key>			
+        <array>			
+          <dict>			       
+            <key>kind</key>			       
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>	
+            <key>url</key>
+            <!--应用图标-->			       
+            <string>http://fdfs.lechat.io:63808/group1/M00/00/1E/wKhkP1w9jraANnumAAAAC3-ONFU19..png</string>
+          </dict>	
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>	
+            <key>url</key>
+            <!--ipa下载地址-->					
+            <string>http://fdfs.lechat.io:63808/group1/M00/00/1E/wKhkP1w9jraAQuxMAVwd_ve67pw967.ipa</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <!--应用包名-->				
+          <string>com.jieyun.app</string>
+          <key>bundle-version</key>
+          <!--应用版本-->				
+          <string>1.0.2</string>
+          <key>kind</key>	
+          <string>software</string>
+          <key>subtitle</key>	
+          <string>Apple</string>
+          <key>title</key>
+          <!--应用名称-->	
+          <string>杰作</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>

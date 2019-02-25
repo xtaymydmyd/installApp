@@ -28,7 +28,7 @@
         <dict>
           <key>bundle-identifier</key>
           <!--应用包名-->				
-          <string>com.jieyun.app</string>
+          <string>com.jieyun.outernet</string>
           <key>bundle-version</key>
           <!--应用版本-->				
           <string>1.0.2</string>
@@ -38,7 +38,7 @@
           <string>Apple</string>
           <key>title</key>
           <!--应用名称-->	
-          <string>杰作</string>
+          <string>爱外网</string>
         </dict>
       </dict>
     </array>
